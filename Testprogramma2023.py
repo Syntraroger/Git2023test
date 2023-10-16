@@ -1,1 +1,1 @@
-print('Import gelukt')
+print("Import gelukt")
